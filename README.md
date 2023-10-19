@@ -1,4 +1,4 @@
 ### alterando javascript
-## desenvolvido por
-# Jhenifer Cruz
-:butterfly:
+## desenvolvido por :rainbow:
+# Jhenifer Cruz :butterfly: 
+
