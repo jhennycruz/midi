@@ -6,8 +6,8 @@ function tocaSom (seletorAudio) {
         elemento.play();
     }
     else {
-        //alert('elemento não encontrado');
-        console.long('Elemento não encontrado ou seletor inválido');
+        //alert('Elemento não encontrado');
+        console.log('Elemento não encontrado ou seletor inválido');
     
     }
 }
